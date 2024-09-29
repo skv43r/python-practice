@@ -1,0 +1,3 @@
+[submodule "docker/prac/getting-started-todo-app"]
+	path = docker/prac/getting-started-todo-app
+	url = https://github.com/docker/getting-started-todo-app
